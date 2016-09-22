@@ -1,7 +1,7 @@
 'use strict';
 
 // for (var i = 0; i < 3; i++) {
-//   setTimeout((function (counter) {
+//   setTimeout( (function (counter) {
 //     return function() { console.log(counter); };
 //     })(i), 1000 + i);
 //   // myTimer(i);
